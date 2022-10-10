@@ -1,5 +1,5 @@
 # Audiothèque
-[ Lieu regroupant tout les CDs de la bibliothèque... qui est même, finalement, une médiathèque ! ]
+Lieu regroupant tout les CDs de la bibliothèque... qui est même, finalement, une médiathèque !
 
 Où aller ensuite ?
 
