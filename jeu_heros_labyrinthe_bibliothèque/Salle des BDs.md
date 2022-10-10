@@ -3,6 +3,6 @@
 
 Où aller ensuite ?
 
-*Dans cette direction : (___)
-*Ou par là ? : (___)
-*Ou alors par ici... : (___)
+* Demi-tour... : (___)
+* Ou par là ? : (___)
+* Ou alors par ici ? : (___)
