@@ -3,5 +3,5 @@
 
 Où aller ensuite ?
 
-* [ Par là: ] (___)
-* [ Ou bien par ici : ] (___)
+* Par là: (___)
+* Ou bien par ici : (___)
